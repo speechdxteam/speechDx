@@ -40,6 +40,15 @@ Language that has been used to interface the app with the participant. It contai
 This is the 
 
 
+# Clinical Characterization
+
+## amyloid_status
+TYPE: string
+VALUES: {"Not Provided", "Not Stated", "Negative", "Positive", "Unknown"}
+
+This is the amyloid status that has been assigned at a certain date. Please refer to field xxx for more information on the modality used to identify amyloid status
+
+
 
 
 
