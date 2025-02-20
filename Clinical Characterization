@@ -1,0 +1,22 @@
+## Cognitive Characterization
+
+# mmse MMSE	
+Mini_Mental_State_Examination
+
+
+moca_total	MOCATOT	MoCA_Total
+moca_date	MOCADT	MoCA_Date
+moca_trial	MOCATRIA	MoCA_Trial
+moca_cube	MOCACUBE	MoCA_Cube
+moca_clock	MOCACLOK	MoCA_Clock
+moca_naming	MOCANAME	MoCA_Naming
+moca_digit	MOCADIGT	MoCA_Digit
+moca_letters	MOCALTTR	MoCA_Letters
+moca_calculation	MOCACALC	MoCA_Calculation
+moca_repetition	MOCAREPT	MoCA_Repetition
+moca_fluency	MOCAFLUE	MoCA_Fluency
+moca_abstraction	MOCAABST	MoCA_Abstraction
+moca_memory	MOCAMEM	MoCA_Memory
+moca_orientation	MOCAORIT	MoCA_Orientation
+moca_memory_index	MOCAINDX	MoCA_Memory_Index
+moca_corrected	MOCACORR	MoCA_Corrected
